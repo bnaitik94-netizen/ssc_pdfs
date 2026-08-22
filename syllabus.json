@@ -3,175 +3,547 @@
         {
             "name": "1. Marathi",
             "chapters": [
-                { "title": "१. जय जय हे भारत देशा (गीत)", "fileName": "10mar_1.pdf" },
-                { "title": "२. बोलतो मराठी...", "fileName": "10mar_2.pdf" },
-                { "title": "३. आजी : कुटुंबाचं आगळ", "fileName": "10mar_3.pdf" },
-                { "title": "४. उत्तमलक्षण (संतकाव्य)", "fileName": "10mar_4.pdf" },
-                { "title": "५. वसंतहृदय चैत्र", "fileName": "10mar_5.pdf" },
-                { "title": "बालसाहित्यिका : गिरिजा कीर (स्थूलवाचन)", "fileName": "10mar_sthul_1.pdf" },
-                { "title": "६. वस्तू (कविता)", "fileName": "10mar_6.pdf" },
-                { "title": "७. गवताचे पाते", "fileName": "10mar_7.pdf" },
-                { "title": "८. वाट पाहताना", "fileName": "10mar_8.pdf" },
-                { "title": "९. आश्वासक चित्र (कविता)", "fileName": "10mar_9.pdf" },
-                { "title": "१०. आप्पांचे पत्र", "fileName": "10mar_10.pdf" },
-                { "title": "मनक्या पेरेन लागा (स्थूलवाचन)", "fileName": "10mar_sthul_2.pdf" },
-                { "title": "११. गोष्ट अरुणिमाची", "fileName": "10mar_11.pdf" },
-                { "title": "१२. भरतवाक्य (कविता)", "fileName": "10mar_12.pdf" },
-                { "title": "१३. कर्ते सुधारक कर्वे", "fileName": "10mar_13.pdf" },
-                { "title": "१४. काळे केस", "fileName": "10mar_14.pdf" },
-                { "title": "१५. खोद आणखी थोडेसे (कविता)", "fileName": "10mar_15.pdf" },
-                { "title": "वीरांगना (स्थूलवाचन)", "fileName": "10mar_sthul_3.pdf" },
-                { "title": "१६. आकाशी झेप घे रे (कविता)", "fileName": "10mar_16.pdf" },
-                { "title": "१७. सोनाली", "fileName": "10mar_17.pdf" },
-                { "title": "१८. निर्णय", "fileName": "10mar_18.pdf" },
-                { "title": "१९. तू झालास मूक समाजाचा नायक (कविता)", "fileName": "10mar_19.pdf" },
-                { "title": "२०. सर्व विश्वचि व्हावे सुखी", "fileName": "10mar_20.pdf" },
-                { "title": "व्युत्पत्ती कोश (स्थूलवाचन)", "fileName": "10mar_sthul_4.pdf" }
+                {
+                    "title": "१. जय जय हे भारत देशा (गीत)",
+                    "fileName": "10mar_1.pdf"
+                },
+                {
+                    "title": "२. बोलतो मराठी...",
+                    "fileName": "10mar_2.pdf"
+                },
+                {
+                    "title": "३. आजी : कुटुंबाचं आगळ",
+                    "fileName": "10mar_3.pdf"
+                },
+                {
+                    "title": "४. उत्तमलक्षण (संतकाव्य)",
+                    "fileName": "10mar_4.pdf"
+                },
+                {
+                    "title": "५. वसंतहृदय चैत्र",
+                    "fileName": "10mar_5.pdf"
+                },
+                {
+                    "title": "बालसाहित्यिका : गिरिजा कीर (स्थूलवाचन)",
+                    "fileName": "10mar_sthul_1.pdf"
+                },
+                {
+                    "title": "६. वस्तू (कविता)",
+                    "fileName": "10mar_6.pdf"
+                },
+                {
+                    "title": "७. गवताचे पाते",
+                    "fileName": "10mar_7.pdf"
+                },
+                {
+                    "title": "८. वाट पाहताना",
+                    "fileName": "10mar_8.pdf"
+                },
+                {
+                    "title": "९. आश्वासक चित्र (कविता)",
+                    "fileName": "10mar_9.pdf"
+                },
+                {
+                    "title": "१०. आप्पांचे पत्र",
+                    "fileName": "10mar_10.pdf"
+                },
+                {
+                    "title": "मनक्या पेरेन लागा (स्थूलवाचन)",
+                    "fileName": "10mar_sthul_2.pdf"
+                },
+                {
+                    "title": "११. गोष्ट अरुणिमाची",
+                    "fileName": "10mar_11.pdf"
+                },
+                {
+                    "title": "१२. भरतवाक्य (कविता)",
+                    "fileName": "10mar_12.pdf"
+                },
+                {
+                    "title": "१३. कर्ते सुधारक कर्वे",
+                    "fileName": "10mar_13.pdf"
+                },
+                {
+                    "title": "१४. काळे केस",
+                    "fileName": "10mar_14.pdf"
+                },
+                {
+                    "title": "१५. खोद आणखी थोडेसे (कविता)",
+                    "fileName": "10mar_15.pdf"
+                },
+                {
+                    "title": "वीरांगना (स्थूलवाचन)",
+                    "fileName": "10mar_sthul_3.pdf"
+                },
+                {
+                    "title": "१६. आकाशी झेप घे रे (कविता)",
+                    "fileName": "10mar_16.pdf"
+                },
+                {
+                    "title": "१७. सोनाली",
+                    "fileName": "10mar_17.pdf"
+                },
+                {
+                    "title": "१८. निर्णय",
+                    "fileName": "10mar_18.pdf"
+                },
+                {
+                    "title": "१९. तू झालास मूक समाजाचा नायक (कविता)",
+                    "fileName": "10mar_19.pdf"
+                },
+                {
+                    "title": "२०. सर्व विश्वचि व्हावे सुखी",
+                    "fileName": "10mar_20.pdf"
+                },
+                {
+                    "title": "व्युत्पत्ती कोश (स्थूलवाचन)",
+                    "fileName": "10mar_sthul_4.pdf"
+                }
             ]
         },
         {
             "name": "2. English",
             "chapters": [
-                { "title": "1.1 A Teenager's Prayer", "fileName": "10eng_1.1.pdf" },
-                { "title": "1.2 An Encounter of a Special Kind", "fileName": "10eng_1.2.pdf" },
-                { "title": "1.3 Basketful of Moonlight", "fileName": "10eng_1.3.pdf" },
-                { "title": "1.4 Be SMART...!", "fileName": "10eng_1.4.pdf" },
-                { "title": "1.5 His First Flight", "fileName": "10eng_1.5.pdf" },
-                { "title": "2.1 You Start Dying Slowly ...", "fileName": "10eng_2.1.pdf" },
-                { "title": "2.2 The Boy who Broke The Bank", "fileName": "10eng_2.2.pdf" },
-                { "title": "2.3 The Twins", "fileName": "10eng_2.3.pdf" },
-                { "title": "2.4 An Epitome of Courage", "fileName": "10eng_2.4.pdf" },
-                { "title": "2.5 Book Review - Swami and Friends", "fileName": "10eng_2.5.pdf" },
-                { "title": "2.6 World Heritage", "fileName": "10eng_2.6.pdf" },
-                { "title": "3.1 If ...", "fileName": "10eng_3.1.pdf" },
-                { "title": "3.2 A Lesson in Life from a Beggar", "fileName": "10eng_3.2.pdf" },
-                { "title": "3.3 Stopping by Woods on a Snowy Evening", "fileName": "10eng_3.3.pdf" },
-                { "title": "3.4 Let's March!", "fileName": "10eng_3.4.pdf" },
-                { "title": "3.5 The Alchemy of Nature", "fileName": "10eng_3.5.pdf" },
-                { "title": "4.1 The World is Mine", "fileName": "10eng_4.1.pdf" },
-                { "title": "4.2 Bholi", "fileName": "10eng_4.2.pdf" },
-                { "title": "4.3 O Captain! My Captain!", "fileName": "10eng_4.3.pdf" },
-                { "title": "4.4 Unbeatable Super Mom - Mary Kom", "fileName": "10eng_4.4.pdf" },
-                { "title": "4.5 Joan of Arc", "fileName": "10eng_4.5.pdf" },
-                { "title": "4.6 A Brave Heart Dedicated to Science and Humanity", "fileName": "10eng_4.6.pdf" }
+                {
+                    "title": "1.1 A Teenager's Prayer",
+                    "fileName": "10eng_1.1.pdf"
+                },
+                {
+                    "title": "1.2 An Encounter of a Special Kind",
+                    "fileName": "10eng_1.2.pdf"
+                },
+                {
+                    "title": "1.3 Basketful of Moonlight",
+                    "fileName": "10eng_1.3.pdf"
+                },
+                {
+                    "title": "1.4 Be SMART...!",
+                    "fileName": "10eng_1.4.pdf"
+                },
+                {
+                    "title": "1.5 His First Flight",
+                    "fileName": "10eng_1.5.pdf"
+                },
+                {
+                    "title": "2.1 You Start Dying Slowly ...",
+                    "fileName": "10eng_2.1.pdf"
+                },
+                {
+                    "title": "2.2 The Boy who Broke The Bank",
+                    "fileName": "10eng_2.2.pdf"
+                },
+                {
+                    "title": "2.3 The Twins",
+                    "fileName": "10eng_2.3.pdf"
+                },
+                {
+                    "title": "2.4 An Epitome of Courage",
+                    "fileName": "10eng_2.4.pdf"
+                },
+                {
+                    "title": "2.5 Book Review - Swami and Friends",
+                    "fileName": "10eng_2.5.pdf"
+                },
+                {
+                    "title": "2.6 World Heritage",
+                    "fileName": "10eng_2.6.pdf"
+                },
+                {
+                    "title": "3.1 If ...",
+                    "fileName": "10eng_3.1.pdf"
+                },
+                {
+                    "title": "3.2 A Lesson in Life from a Beggar",
+                    "fileName": "10eng_3.2.pdf"
+                },
+                {
+                    "title": "3.3 Stopping by Woods on a Snowy Evening",
+                    "fileName": "10eng_3.3.pdf"
+                },
+                {
+                    "title": "3.4 Let's March!",
+                    "fileName": "10eng_3.4.pdf"
+                },
+                {
+                    "title": "3.5 The Alchemy of Nature",
+                    "fileName": "10eng_3.5.pdf"
+                },
+                {
+                    "title": "4.1 The World is Mine",
+                    "fileName": "10eng_4.1.pdf"
+                },
+                {
+                    "title": "4.2 Bholi",
+                    "fileName": "10eng_4.2.pdf"
+                },
+                {
+                    "title": "4.3 O Captain! My Captain!",
+                    "fileName": "10eng_4.3.pdf"
+                },
+                {
+                    "title": "4.4 Unbeatable Super Mom - Mary Kom",
+                    "fileName": "10eng_4.4.pdf"
+                },
+                {
+                    "title": "4.5 Joan of Arc",
+                    "fileName": "10eng_4.5.pdf"
+                },
+                {
+                    "title": "4.6 A Brave Heart Dedicated to Science and Humanity",
+                    "fileName": "10eng_4.6.pdf"
+                }
             ]
         },
         {
             "name": "3. Hindi",
             "chapters": [
-                { "title": "१. भारत महिमा", "fileName": "10hin_1.1.pdf" },
-                { "title": "२. लक्ष्मी", "fileName": "10hin_1.2.pdf" },
-                { "title": "३. वाह रे ! हमदर्द", "fileName": "10hin_1.3.pdf" },
-                { "title": "४. मन (पूरक पठन)", "fileName": "10hin_1.4.pdf" },
-                { "title": "५. गोवा : जैसा मैंने देखा", "fileName": "10hin_1.5.pdf" },
-                { "title": "६. गिरिधर नागर", "fileName": "10hin_1.6.pdf" },
-                { "title": "७. खुला आकाश (पूरक पठन)", "fileName": "10hin_1.7.pdf" },
-                { "title": "८. गजल", "fileName": "10hin_1.8.pdf" },
-                { "title": "९. रीढ़ की हड्डी", "fileName": "10hin_1.9.pdf" },
-                { "title": "१०. ठेस (पूरक पठन)", "fileName": "10hin_1.10.pdf" },
-                { "title": "११. कृषक का गान", "fileName": "10hin_1.11.pdf" },
-                { "title": "१. बरषहिं जलद", "fileName": "10hin_2.1.pdf" },
-                { "title": "२. दो लघुकथाएँ (पूरक पठन)", "fileName": "10hin_2.2.pdf" },
-                { "title": "३. श्रम साधना", "fileName": "10hin_2.3.pdf" },
-                { "title": "४. छापा", "fileName": "10hin_2.4.pdf" },
-                { "title": "५. ईमानदारी की प्रतिमूर्ति", "fileName": "10hin_2.5.pdf" },
-                { "title": "६. हम इस धरती की संतति हैं (पूरक पठन)", "fileName": "10hin_2.6.pdf" },
-                { "title": "७. महिला आश्रम", "fileName": "10hin_2.7.pdf" },
-                { "title": "८. अपनी गंध नहीं बेचूँगा", "fileName": "10hin_2.8.pdf" },
-                { "title": "९. जब तक जिंदा रहूँ, लिखता रहूँ", "fileName": "10hin_2.9.pdf" },
-                { "title": "१०. बूढ़ी काकी (पूरक पठन)", "fileName": "10hin_2.10.pdf" },
-                { "title": "११. समता की ओर", "fileName": "10hin_2.11.pdf" }
+                {
+                    "title": "१. भारत महिमा",
+                    "fileName": "10hin_1.1.pdf"
+                },
+                {
+                    "title": "२. लक्ष्मी",
+                    "fileName": "10hin_1.2.pdf"
+                },
+                {
+                    "title": "३. वाह रे ! हमदर्द",
+                    "fileName": "10hin_1.3.pdf"
+                },
+                {
+                    "title": "४. मन (पूरक पठन)",
+                    "fileName": "10hin_1.4.pdf"
+                },
+                {
+                    "title": "५. गोवा : जैसा मैंने देखा",
+                    "fileName": "10hin_1.5.pdf"
+                },
+                {
+                    "title": "६. गिरिधर नागर",
+                    "fileName": "10hin_1.6.pdf"
+                },
+                {
+                    "title": "७. खुला आकाश (पूरक पठन)",
+                    "fileName": "10hin_1.7.pdf"
+                },
+                {
+                    "title": "८. गजल",
+                    "fileName": "10hin_1.8.pdf"
+                },
+                {
+                    "title": "९. रीढ़ की हड्डी",
+                    "fileName": "10hin_1.9.pdf"
+                },
+                {
+                    "title": "१०. ठेस (पूरक पठन)",
+                    "fileName": "10hin_1.10.pdf"
+                },
+                {
+                    "title": "११. कृषक का गान",
+                    "fileName": "10hin_1.11.pdf"
+                },
+                {
+                    "title": "१. बरषहिं जलद",
+                    "fileName": "10hin_2.1.pdf"
+                },
+                {
+                    "title": "२. दो लघुकथाएँ (पूरक पठन)",
+                    "fileName": "10hin_2.2.pdf"
+                },
+                {
+                    "title": "३. श्रम साधना",
+                    "fileName": "10hin_2.3.pdf"
+                },
+                {
+                    "title": "४. छापा",
+                    "fileName": "10hin_2.4.pdf"
+                },
+                {
+                    "title": "५. ईमानदारी की प्रतिमूर्ति",
+                    "fileName": "10hin_2.5.pdf"
+                },
+                {
+                    "title": "६. हम इस धरती की संतति हैं (पूरक पठन)",
+                    "fileName": "10hin_2.6.pdf"
+                },
+                {
+                    "title": "७. महिला आश्रम",
+                    "fileName": "10hin_2.7.pdf"
+                },
+                {
+                    "title": "८. अपनी गंध नहीं बेचूँगा",
+                    "fileName": "10hin_2.8.pdf"
+                },
+                {
+                    "title": "९. जब तक जिंदा रहूँ, लिखता रहूँ",
+                    "fileName": "10hin_2.9.pdf"
+                },
+                {
+                    "title": "१०. बूढ़ी काकी (पूरक पठन)",
+                    "fileName": "10hin_2.10.pdf"
+                },
+                {
+                    "title": "११. समता की ओर",
+                    "fileName": "10hin_2.11.pdf"
+                }
             ]
         },
         {
             "name": "4. Math Part-1",
             "chapters": [
-                { "title": "1. Linear Equations in Two Variables", "fileName": "10alg_1.pdf" },
-                { "title": "2. Quadratic Equations", "fileName": "10alg_2.pdf" },
-                { "title": "3. Arithmetic Progression", "fileName": "10alg_3.pdf" },
-                { "title": "4. Financial Planning", "fileName": "10alg_4.pdf" },
-                { "title": "5. Probability", "fileName": "10alg_5.pdf" },
-                { "title": "6. Statistics", "fileName": "10alg_6.pdf" }
+                {
+                    "title": "1. Linear Equations in Two Variables",
+                    "fileName": "10alg_1.pdf"
+                },
+                {
+                    "title": "2. Quadratic Equations",
+                    "fileName": "10alg_2.pdf"
+                },
+                {
+                    "title": "3. Arithmetic Progression",
+                    "fileName": "10alg_3.pdf"
+                },
+                {
+                    "title": "4. Financial Planning",
+                    "fileName": "10alg_4.pdf"
+                },
+                {
+                    "title": "5. Probability",
+                    "fileName": "10alg_5.pdf"
+                },
+                {
+                    "title": "6. Statistics",
+                    "fileName": "10alg_6.pdf"
+                }
             ]
         },
         {
             "name": "5. Math Part-2",
             "chapters": [
-                { "title": "1. Similarity", "fileName": "10geo_1.pdf" },
-                { "title": "2. Pythagoras Theorem", "fileName": "10geo_2.pdf" },
-                { "title": "3. Circle", "fileName": "10geo_3.pdf" },
-                { "title": "4. Geometric Constructions", "fileName": "10geo_4.pdf" },
-                { "title": "5. Co-ordinate Geometry", "fileName": "10geo_5.pdf" },
-                { "title": "6. Trigonometry", "fileName": "10geo_6.pdf" },
-                { "title": "7. Mensuration", "fileName": "10geo_7.pdf" }
+                {
+                    "title": "1. Similarity",
+                    "fileName": "10geo_1.pdf"
+                },
+                {
+                    "title": "2. Pythagoras Theorem",
+                    "fileName": "10geo_2.pdf"
+                },
+                {
+                    "title": "3. Circle",
+                    "fileName": "10geo_3.pdf"
+                },
+                {
+                    "title": "4. Geometric Constructions",
+                    "fileName": "10geo_4.pdf"
+                },
+                {
+                    "title": "5. Co-ordinate Geometry",
+                    "fileName": "10geo_5.pdf"
+                },
+                {
+                    "title": "6. Trigonometry",
+                    "fileName": "10geo_6.pdf"
+                },
+                {
+                    "title": "7. Mensuration",
+                    "fileName": "10geo_7.pdf"
+                }
             ]
         },
         {
             "name": "6. Science Part-1",
             "chapters": [
-                { "title": "1. Gravitation", "fileName": "10s1_1.pdf" },
-                { "title": "2. Periodic Classification of Element", "fileName": "10s1_2.pdf" },
-                { "title": "3. Chemical reactions and equations", "fileName": "10s1_3.pdf" },
-                { "title": "4. Effects of electric current", "fileName": "10s1_4.pdf" },
-                { "title": "5. Heat", "fileName": "10s1_5.pdf" },
-                { "title": "6. Refraction of light", "fileName": "10s1_6.pdf" },
-                { "title": "7. Lenses", "fileName": "10s1_7.pdf" },
-                { "title": "8. Metallurgy", "fileName": "10s1_8.pdf" },
-                { "title": "9. Carbon compounds", "fileName": "10s1_9.pdf" },
-                { "title": "10. Space Missions", "fileName": "10s1_10.pdf" }
+                {
+                    "title": "1. Gravitation",
+                    "fileName": "10s1_1.pdf"
+                },
+                {
+                    "title": "2. Periodic Classification of Element",
+                    "fileName": "10s1_2.pdf"
+                },
+                {
+                    "title": "3. Chemical reactions and equations",
+                    "fileName": "10s1_3.pdf"
+                },
+                {
+                    "title": "4. Effects of electric current",
+                    "fileName": "10s1_4.pdf"
+                },
+                {
+                    "title": "5. Heat",
+                    "fileName": "10s1_5.pdf"
+                },
+                {
+                    "title": "6. Refraction of light",
+                    "fileName": "10s1_6.pdf"
+                },
+                {
+                    "title": "7. Lenses",
+                    "fileName": "10s1_7.pdf"
+                },
+                {
+                    "title": "8. Metallurgy",
+                    "fileName": "10s1_8.pdf"
+                },
+                {
+                    "title": "9. Carbon compounds",
+                    "fileName": "10s1_9.pdf"
+                },
+                {
+                    "title": "10. Space Missions",
+                    "fileName": "10s1_10.pdf"
+                }
             ]
         },
         {
             "name": "7. Science Part-2",
             "chapters": [
-                { "title": "1. Heredity and Evolution", "fileName": "10s2_1.pdf" },
-                { "title": "2. Life Processes in Living Organisms Part -1", "fileName": "10s2_2.pdf" },
-                { "title": "3. Life Processes in Living Organisms Part - 2", "fileName": "10s2_3.pdf" },
-                { "title": "4. Environmental management", "fileName": "10s2_4.pdf" },
-                { "title": "5. Towards Green Energy", "fileName": "10s2_5.pdf" },
-                { "title": "6. Animal Classification", "fileName": "10s2_6.pdf" },
-                { "title": "7. Introduction to Microbiology", "fileName": "10s2_7.pdf" },
-                { "title": "8. Cell Biology and Biotechnology", "fileName": "10s2_8.pdf" },
-                { "title": "9. Social health", "fileName": "10s2_9.pdf" },
-                { "title": "10. Disaster Management", "fileName": "10s2_10.pdf" }
+                {
+                    "title": "1. Heredity and Evolution",
+                    "fileName": "10s2_1.pdf"
+                },
+                {
+                    "title": "2. Life Processes in Living Organisms Part -1",
+                    "fileName": "10s2_2.pdf"
+                },
+                {
+                    "title": "3. Life Processes in Living Organisms Part - 2",
+                    "fileName": "10s2_3.pdf"
+                },
+                {
+                    "title": "4. Environmental management",
+                    "fileName": "10s2_4.pdf"
+                },
+                {
+                    "title": "5. Towards Green Energy",
+                    "fileName": "10s2_5.pdf"
+                },
+                {
+                    "title": "6. Animal Classification",
+                    "fileName": "10s2_6.pdf"
+                },
+                {
+                    "title": "7. Introduction to Microbiology",
+                    "fileName": "10s2_7.pdf"
+                },
+                {
+                    "title": "8. Cell Biology and Biotechnology",
+                    "fileName": "10s2_8.pdf"
+                },
+                {
+                    "title": "9. Social health",
+                    "fileName": "10s2_9.pdf"
+                },
+                {
+                    "title": "10. Disaster Management",
+                    "fileName": "10s2_10.pdf"
+                }
             ]
         },
         {
             "name": "8. Itihas",
             "chapters": [
-                { "title": "१. इतिहासलेखन : पाश्चात्त्य परंपरा", "fileName": "10h_1.pdf" },
-                { "title": "२. इतिहासलेखन : भारतीय परंपरा", "fileName": "10h_2.pdf" },
-                { "title": "३. उपयोजित इतिहास", "fileName": "10h_3.pdf" },
-                { "title": "४. भारतीय कलांचा इतिहास", "fileName": "10h_4.pdf" },
-                { "title": "५. प्रसारमाध्यमे आणि इतिहास", "fileName": "10h_5.pdf" },
-                { "title": "६. मनोरंजनाची माध्यमे आणि इतिहास", "fileName": "10h_6.pdf" },
-                { "title": "७. खेळ आणि इतिहास", "fileName": "10h_7.pdf" },
-                { "title": "८. पर्यटन आणि इतिहास", "fileName": "10h_8.pdf" },
-                { "title": "९. ऐतिहासिक ठेव्यांचे जतन", "fileName": "10h_9.pdf" }
+                {
+                    "title": "१. इतिहासलेखन : पाश्चात्त्य परंपरा",
+                    "fileName": "10h_1.pdf"
+                },
+                {
+                    "title": "२. इतिहासलेखन : भारतीय परंपरा",
+                    "fileName": "10h_2.pdf"
+                },
+                {
+                    "title": "३. उपयोजित इतिहास",
+                    "fileName": "10h_3.pdf"
+                },
+                {
+                    "title": "४. भारतीय कलांचा इतिहास",
+                    "fileName": "10h_4.pdf"
+                },
+                {
+                    "title": "५. प्रसारमाध्यमे आणि इतिहास",
+                    "fileName": "10h_5.pdf"
+                },
+                {
+                    "title": "६. मनोरंजनाची माध्यमे आणि इतिहास",
+                    "fileName": "10h_6.pdf"
+                },
+                {
+                    "title": "७. खेळ आणि इतिहास",
+                    "fileName": "10h_7.pdf"
+                },
+                {
+                    "title": "८. पर्यटन आणि इतिहास",
+                    "fileName": "10h_8.pdf"
+                },
+                {
+                    "title": "९. ऐतिहासिक ठेव्यांचे जतन",
+                    "fileName": "10h_9.pdf"
+                }
             ]
         },
         {
             "name": "9. Bhugol",
             "chapters": [
-                { "title": "१. क्षेत्रभेट", "fileName": "10bhu_1.pdf" },
-                { "title": "२. स्थान-विस्तार", "fileName": "10bhu_2.pdf" },
-                { "title": "३. प्राकृतिक रचना व जलप्रणाली", "fileName": "10bhu_3.pdf" },
-                { "title": "४. हवामान", "fileName": "10bhu_4.pdf" },
-                { "title": "५. नैसर्गिक वनस्पती व प्राणी", "fileName": "10bhu_5.pdf" },
-                { "title": "६. लोकसंख्या", "fileName": "10bhu_6.pdf" },
-                { "title": "७. मानवी वस्ती", "fileName": "10bhu_7.pdf" },
-                { "title": "८. अर्थव्यवस्था आणि व्यवसाय", "fileName": "10bhu_8.pdf" },
-                { "title": "९. पर्यटन, वाहतूक आणि संदेशवहन", "fileName": "10bhu_9.pdf" }
+                {
+                    "title": "१. क्षेत्रभेट",
+                    "fileName": "10bhu_1.pdf"
+                },
+                {
+                    "title": "२. स्थान-विस्तार",
+                    "fileName": "10bhu_2.pdf"
+                },
+                {
+                    "title": "३. प्राकृतिक रचना व जलप्रणाली",
+                    "fileName": "10bhu_3.pdf"
+                },
+                {
+                    "title": "४. हवामान",
+                    "fileName": "10bhu_4.pdf"
+                },
+                {
+                    "title": "५. नैसर्गिक वनस्पती व प्राणी",
+                    "fileName": "10bhu_5.pdf"
+                },
+                {
+                    "title": "६. लोकसंख्या",
+                    "fileName": "10bhu_6.pdf"
+                },
+                {
+                    "title": "७. मानवी वस्ती",
+                    "fileName": "10bhu_7.pdf"
+                },
+                {
+                    "title": "८. अर्थव्यवस्था आणि व्यवसाय",
+                    "fileName": "10bhu_8.pdf"
+                },
+                {
+                    "title": "९. पर्यटन, वाहतूक आणि संदेशवहन",
+                    "fileName": "10bhu_9.pdf"
+                }
             ]
         },
         {
             "name": "10. Rajyashastra",
             "chapters": [
-                { "title": "१. संविधानाची वाटचाल", "fileName": "10raj_1.pdf" },
-                { "title": "२. निवडणूक प्रक्रिया", "fileName": "10raj_2.pdf" },
-                { "title": "३. राजकीय पक्ष", "fileName": "10raj_3.pdf" },
-                { "title": "४. सामाजिक व राजकीय चळवळी", "fileName": "10raj_4.pdf" },
-                { "title": "५. भारतीय लोकशाहीसमोरील आव्हाने", "fileName": "10raj_5.pdf" }
+                {
+                    "title": "१. संविधानाची वाटचाल",
+                    "fileName": "10raj_1.pdf"
+                },
+                {
+                    "title": "२. निवडणूक प्रक्रिया",
+                    "fileName": "10raj_2.pdf"
+                },
+                {
+                    "title": "३. राजकीय पक्ष",
+                    "fileName": "10raj_3.pdf"
+                },
+                {
+                    "title": "४. सामाजिक व राजकीय चळवळी",
+                    "fileName": "10raj_4.pdf"
+                },
+                {
+                    "title": "५. भारतीय लोकशाहीसमोरील आव्हाने",
+                    "fileName": "10raj_5.pdf"
+                }
             ]
         }
     ],
@@ -179,174 +551,558 @@
         {
             "name": "1. Marathi",
             "chapters": [
-                { "title": "१. वंद्य 'वन्दे मातरम्' (गीत)", "fileName": "9mar_1.pdf" },
-                { "title": "२. संतवाणी (अ) जैसा वृक्ष नेणे- संत नामदेव (आ) धरीला पंढरीचा चोर-संत जनाबाई", "fileName": "9mar_2.pdf" },
-                { "title": "३. कीर्ती कठीयाचा दृष्टान्त", "fileName": "9mar_3.pdf" },
-                { "title": "४. नात्यांची घट्ट वीण", "fileName": "9mar_4.pdf" },
-                { "title": "५. एक होती समई", "fileName": "9mar_5.pdf" },
-                { "title": "हास्यचित्रांतली मुलं (स्थूलवाचन)", "fileName": "9mar_sthul_1.pdf" },
-                { "title": "६. या झोपडीत माझ्या (कविता)", "fileName": "9mar_6.pdf" },
-                { "title": "७. दुपार", "fileName": "9mar_7.pdf" },
-                { "title": "८. अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्या", "fileName": "9mar_8.pdf" },
-                { "title": "९. मी वाचवतोय (कविता)", "fileName": "9mar_9.pdf" },
-                { "title": "१०. यंत्रांनी केलं बंड", "fileName": "9mar_10.pdf" },
-                { "title": "इंग्लंडचा हिवाळा (स्थूलवाचन)", "fileName": "9mar_sthul_2.pdf" },
-                { "title": "११. मातीची सावली", "fileName": "9mar_11.pdf" },
-                { "title": "१२. महाराष्ट्रावरूनी टाक ओवाळून काया (पोवाडा)", "fileName": "9mar_12.pdf" },
-                { "title": "१३. थोडं 'आ' भारनियमन करूया", "fileName": "9mar_13.pdf" },
-                { "title": "१४. आदर्शवादी मुळगावकर", "fileName": "9mar_14.pdf" },
-                { "title": "१५. निरोप (कविता)", "fileName": "9mar_15.pdf" },
-                { "title": "'बिग ५' च्या सहवासात (स्थूलवाचन)", "fileName": "9mar_sthul_3.pdf" },
-                { "title": "१६. वनवासी (कविता)", "fileName": "9mar_16.pdf" },
-                { "title": "१७. ऑलिंपिक वर्तुळांचा गोफ", "fileName": "9mar_17.pdf" },
-                { "title": "१८. हसरे दुःख", "fileName": "9mar_18.pdf" },
-                { "title": "१९. प्रीतम", "fileName": "9mar_19.pdf" },
-                { "title": "२०. आपुले जगणे...आपुली ओळख!(कविता)", "fileName": "9mar_20.pdf" },
-                { "title": "विश्वकोश (स्थूलवाचन)", "fileName": "9mar_sthul_4.pdf" }
+                {
+                    "title": "१. वंद्य 'वन्दे मातरम्' (गीत)",
+                    "fileName": "9mar_1.pdf"
+                },
+                {
+                    "title": "२. संतवाणी (अ) जैसा वृक्ष नेणे- संत नामदेव (आ) धरीला पंढरीचा चोर-संत जनाबाई",
+                    "fileName": "9mar_2.pdf"
+                },
+                {
+                    "title": "३. कीर्ती कठीयाचा दृष्टान्त",
+                    "fileName": "9mar_3.pdf"
+                },
+                {
+                    "title": "४. नात्यांची घट्ट वीण",
+                    "fileName": "9mar_4.pdf"
+                },
+                {
+                    "title": "५. एक होती समई",
+                    "fileName": "9mar_5.pdf"
+                },
+                {
+                    "title": "हास्यचित्रांतली मुलं (स्थूलवाचन)",
+                    "fileName": "9mar_sthul_1.pdf"
+                },
+                {
+                    "title": "६. या झोपडीत माझ्या (कविता)",
+                    "fileName": "9mar_6.pdf"
+                },
+                {
+                    "title": "७. दुपार",
+                    "fileName": "9mar_7.pdf"
+                },
+                {
+                    "title": "८. अभियंत्यांचे दैवत-डॉ. विश्वेश्वरय्या",
+                    "fileName": "9mar_8.pdf"
+                },
+                {
+                    "title": "९. मी वाचवतोय (कविता)",
+                    "fileName": "9mar_9.pdf"
+                },
+                {
+                    "title": "१०. यंत्रांनी केलं बंड",
+                    "fileName": "9mar_10.pdf"
+                },
+                {
+                    "title": "इंग्लंडचा हिवाळा (स्थूलवाचन)",
+                    "fileName": "9mar_sthul_2.pdf"
+                },
+                {
+                    "title": "११. मातीची सावली",
+                    "fileName": "9mar_11.pdf"
+                },
+                {
+                    "title": "१२. महाराष्ट्रावरूनी टाक ओवाळून काया (पोवाडा)",
+                    "fileName": "9mar_12.pdf"
+                },
+                {
+                    "title": "१३. थोडं 'आ' भारनियमन करूया",
+                    "fileName": "9mar_13.pdf"
+                },
+                {
+                    "title": "१४. आदर्शवादी मुळगावकर",
+                    "fileName": "9mar_14.pdf"
+                },
+                {
+                    "title": "१५. निरोप (कविता)",
+                    "fileName": "9mar_15.pdf"
+                },
+                {
+                    "title": "'बिग ५' च्या सहवासात (स्थूलवाचन)",
+                    "fileName": "9mar_sthul_3.pdf"
+                },
+                {
+                    "title": "१६. वनवासी (कविता)",
+                    "fileName": "9mar_16.pdf"
+                },
+                {
+                    "title": "१७. ऑलिंपिक वर्तुळांचा गोफ",
+                    "fileName": "9mar_17.pdf"
+                },
+                {
+                    "title": "१८. हसरे दुःख",
+                    "fileName": "9mar_18.pdf"
+                },
+                {
+                    "title": "१९. प्रीतम",
+                    "fileName": "9mar_19.pdf"
+                },
+                {
+                    "title": "२०. आपुले जगणे...आपुली ओळख!(कविता)",
+                    "fileName": "9mar_20.pdf"
+                },
+                {
+                    "title": "विश्वकोश (स्थूलवाचन)",
+                    "fileName": "9mar_sthul_4.pdf"
+                }
             ]
         },
         {
             "name": "2. English",
             "chapters": [
-                { "title": "1.1 Walk a little slower ...", "fileName": "9eng_1.1.pdf" },
-                { "title": "1.2 The Fun they Had", "fileName": "9eng_1.2.pdf" },
-                { "title": "1.3 'Hope' is the thing with feathers -", "fileName": "9eng_1.3.pdf" },
-                { "title": "1.4 The Story of Tea", "fileName": "9eng_1.4.pdf" },
-                { "title": "1.5 The Necklace", "fileName": "9eng_1.5.pdf" },
-                { "title": "2.1 Comparisons", "fileName": "9eng_2.1.pdf" },
-                { "title": "2.2 Helen Keller and Anne Sullivan", "fileName": "9eng_2.2.pdf" },
-                { "title": "2.3 Mark Twain", "fileName": "9eng_2.3.pdf" },
-                { "title": "2.4 Please Listen!", "fileName": "9eng_2.4.pdf" },
-                { "title": "2.5 A Play", "fileName": "9eng_2.5.pdf" },
-                { "title": "3.1 Coromandel Fishers", "fileName": "9eng_3.1.pdf" },
-                { "title": "3.2 The Fall of Troy", "fileName": "9eng_3.2.pdf" },
-                { "title": "3.3 To a Butterfly", "fileName": "9eng_3.3.pdf" },
-                { "title": "3.4 Think Before You Speak!", "fileName": "9eng_3.4.pdf" },
-                { "title": "3.5 Great Scientists", "fileName": "9eng_3.5.pdf" },
-                { "title": "4.1 What is Success?", "fileName": "9eng_4.1.pdf" },
-                { "title": "4.2 Reading Works of Art", "fileName": "9eng_4.2.pdf" },
-                { "title": "4.3 Silver", "fileName": "9eng_4.3.pdf" },
-                { "title": "4.4 The Tempest", "fileName": "9eng_4.4.pdf" },
-                { "title": "4.5 The Last Lesson", "fileName": "9eng_4.5.pdf" }
+                {
+                    "title": "1.1 Walk a little slower ...",
+                    "fileName": "9eng_1.1.pdf"
+                },
+                {
+                    "title": "1.2 The Fun they Had",
+                    "fileName": "9eng_1.2.pdf"
+                },
+                {
+                    "title": "1.3 'Hope' is the thing with feathers -",
+                    "fileName": "9eng_1.3.pdf"
+                },
+                {
+                    "title": "1.4 The Story of Tea",
+                    "fileName": "9eng_1.4.pdf"
+                },
+                {
+                    "title": "1.5 The Necklace",
+                    "fileName": "9eng_1.5.pdf"
+                },
+                {
+                    "title": "2.1 Comparisons",
+                    "fileName": "9eng_2.1.pdf"
+                },
+                {
+                    "title": "2.2 Helen Keller and Anne Sullivan",
+                    "fileName": "9eng_2.2.pdf"
+                },
+                {
+                    "title": "2.3 Mark Twain",
+                    "fileName": "9eng_2.3.pdf"
+                },
+                {
+                    "title": "2.4 Please Listen!",
+                    "fileName": "9eng_2.4.pdf"
+                },
+                {
+                    "title": "2.5 A Play",
+                    "fileName": "9eng_2.5.pdf"
+                },
+                {
+                    "title": "3.1 Coromandel Fishers",
+                    "fileName": "9eng_3.1.pdf"
+                },
+                {
+                    "title": "3.2 The Fall of Troy",
+                    "fileName": "9eng_3.2.pdf"
+                },
+                {
+                    "title": "3.3 To a Butterfly",
+                    "fileName": "9eng_3.3.pdf"
+                },
+                {
+                    "title": "3.4 Think Before You Speak!",
+                    "fileName": "9eng_3.4.pdf"
+                },
+                {
+                    "title": "3.5 Great Scientists",
+                    "fileName": "9eng_3.5.pdf"
+                },
+                {
+                    "title": "4.1 What is Success?",
+                    "fileName": "9eng_4.1.pdf"
+                },
+                {
+                    "title": "4.2 Reading Works of Art",
+                    "fileName": "9eng_4.2.pdf"
+                },
+                {
+                    "title": "4.3 Silver",
+                    "fileName": "9eng_4.3.pdf"
+                },
+                {
+                    "title": "4.4 The Tempest",
+                    "fileName": "9eng_4.4.pdf"
+                },
+                {
+                    "title": "4.5 The Last Lesson",
+                    "fileName": "9eng_4.5.pdf"
+                }
             ]
         },
         {
             "name": "3. Hindi",
             "chapters": [
-                { "title": "१. चाँदनी रात", "fileName": "9hin_1.1.pdf" },
-                { "title": "२. बिल्ली का बिलुंगड़ा", "fileName": "9hin_1.2.pdf" },
-                { "title": "३. कबीर (पूरक पठन)", "fileName": "9hin_1.3.pdf" },
-                { "title": "४. किताबें", "fileName": "9hin_1.4.pdf" },
-                { "title": "५. जूलिया", "fileName": "9hin_1.5.pdf" },
-                { "title": "६. ऐ सखि ! (पूरक पठन)", "fileName": "9hin_1.6.pdf" },
-                { "title": "७. डॉक्टर का अपहरण", "fileName": "9hin_1.7.pdf" },
-                { "title": "८. वीरभूमि पर कुछ दिन", "fileName": "9hin_1.8.pdf" },
-                { "title": "९. वरदान माँगूँगा नहीं", "fileName": "9hin_1.9.pdf" },
-                { "title": "१०. रात का चौकीदार (पूरक पठन)", "fileName": "9hin_1.10.pdf" },
-                { "title": "११. निर्माणों के पावन युग में", "fileName": "9hin_1.11.pdf" },
-                { "title": "१. कह कविराय", "fileName": "9hin_2.1.pdf" },
-                { "title": "२. जंगल (पूरक पठन)", "fileName": "9hin_2.2.pdf" },
-                { "title": "३. इनाम", "fileName": "9hin_2.3.pdf" },
-                { "title": "४. सिंधु का जल", "fileName": "9hin_2.4.pdf" },
-                { "title": "५. अतीत के पत्र", "fileName": "9hin_2.5.pdf" },
-                { "title": "६. निसर्ग वैभव (पूरक पठन)", "fileName": "9hin_2.6.pdf" },
-                { "title": "७. शिष्टाचार", "fileName": "9hin_2.7.pdf" },
-                { "title": "८. उड़ान", "fileName": "9hin_2.8.pdf" },
-                { "title": "९. मेरे पिता जी (पूरक पठन)", "fileName": "9hin_2.9.pdf" },
-                { "title": "१०. अपराजेय", "fileName": "9hin_2.10.pdf" },
-                { "title": "११. स्वतंत्रता गान", "fileName": "9hin_2.11.pdf" }
+                {
+                    "title": "१. चाँदनी रात",
+                    "fileName": "9hin_1.1.pdf"
+                },
+                {
+                    "title": "२. बिल्ली का बिलुंगड़ा",
+                    "fileName": "9hin_1.2.pdf"
+                },
+                {
+                    "title": "३. कबीर (पूरक पठन)",
+                    "fileName": "9hin_1.3.pdf"
+                },
+                {
+                    "title": "४. किताबें",
+                    "fileName": "9hin_1.4.pdf"
+                },
+                {
+                    "title": "५. जूलिया",
+                    "fileName": "9hin_1.5.pdf"
+                },
+                {
+                    "title": "६. ऐ सखि ! (पूरक पठन)",
+                    "fileName": "9hin_1.6.pdf"
+                },
+                {
+                    "title": "७. डॉक्टर का अपहरण",
+                    "fileName": "9hin_1.7.pdf"
+                },
+                {
+                    "title": "८. वीरभूमि पर कुछ दिन",
+                    "fileName": "9hin_1.8.pdf"
+                },
+                {
+                    "title": "९. वरदान माँगूँगा नहीं",
+                    "fileName": "9hin_1.9.pdf"
+                },
+                {
+                    "title": "१०. रात का चौकीदार (पूरक पठन)",
+                    "fileName": "9hin_1.10.pdf"
+                },
+                {
+                    "title": "११. निर्माणों के पावन युग में",
+                    "fileName": "9hin_1.11.pdf"
+                },
+                {
+                    "title": "१. कह कविराय",
+                    "fileName": "9hin_2.1.pdf"
+                },
+                {
+                    "title": "२. जंगल (पूरक पठन)",
+                    "fileName": "9hin_2.2.pdf"
+                },
+                {
+                    "title": "३. इनाम",
+                    "fileName": "9hin_2.3.pdf"
+                },
+                {
+                    "title": "४. सिंधु का जल",
+                    "fileName": "9hin_2.4.pdf"
+                },
+                {
+                    "title": "५. अतीत के पत्र",
+                    "fileName": "9hin_2.5.pdf"
+                },
+                {
+                    "title": "६. निसर्ग वैभव (पूरक पठन)",
+                    "fileName": "9hin_2.6.pdf"
+                },
+                {
+                    "title": "७. शिष्टाचार",
+                    "fileName": "9hin_2.7.pdf"
+                },
+                {
+                    "title": "८. उड़ान",
+                    "fileName": "9hin_2.8.pdf"
+                },
+                {
+                    "title": "९. मेरे पिता जी (पूरक पठन)",
+                    "fileName": "9hin_2.9.pdf"
+                },
+                {
+                    "title": "१०. अपराजेय",
+                    "fileName": "9hin_2.10.pdf"
+                },
+                {
+                    "title": "११. स्वतंत्रता गान",
+                    "fileName": "9hin_2.11.pdf"
+                }
             ]
         },
         {
             "name": "4. Math Part-1",
             "chapters": [
-                { "title": "1. Sets", "fileName": "9alg_1.pdf" },
-                { "title": "2. Real Numbers", "fileName": "9alg_2.pdf" },
-                { "title": "3. Polynomials", "fileName": "9alg_3.pdf" },
-                { "title": "4. Ratio and Proportion", "fileName": "9alg_4.pdf" },
-                { "title": "5. Linear Equations in Two Variables", "fileName": "9alg_5.pdf" },
-                { "title": "6. Financial Planning", "fileName": "9alg_6.pdf" },
-                { "title": "7. Statistics", "fileName": "9alg_7.pdf" }
+                {
+                    "title": "1. Sets",
+                    "fileName": "9alg_1.pdf"
+                },
+                {
+                    "title": "2. Real Numbers",
+                    "fileName": "9alg_2.pdf"
+                },
+                {
+                    "title": "3. Polynomials",
+                    "fileName": "9alg_3.pdf"
+                },
+                {
+                    "title": "4. Ratio and Proportion",
+                    "fileName": "9alg_4.pdf"
+                },
+                {
+                    "title": "5. Linear Equations in Two Variables",
+                    "fileName": "9alg_5.pdf"
+                },
+                {
+                    "title": "6. Financial Planning",
+                    "fileName": "9alg_6.pdf"
+                },
+                {
+                    "title": "7. Statistics",
+                    "fileName": "9alg_7.pdf"
+                }
             ]
         },
         {
             "name": "5. Math Part-2",
             "chapters": [
-                { "title": "1. Basic Concepts in Geometry", "fileName": "9geo_1.pdf" },
-                { "title": "2. Parallel Lines", "fileName": "9geo_2.pdf" },
-                { "title": "3. Triangles", "fileName": "9geo_3.pdf" },
-                { "title": "4. Constructions of Triangles", "fileName": "9geo_4.pdf" },
-                { "title": "5. Quadrilaterals", "fileName": "9geo_5.pdf" },
-                { "title": "6. Circle", "fileName": "9geo_6.pdf" },
-                { "title": "7. Co-ordinate Geometry", "fileName": "9geo_7.pdf" },
-                { "title": "8. Trigonometry", "fileName": "9geo_8.pdf" },
-                { "title": "9. Surface Area and Volume", "fileName": "9geo_9.pdf" }
+                {
+                    "title": "1. Basic Concepts in Geometry",
+                    "fileName": "9geo_1.pdf"
+                },
+                {
+                    "title": "2. Parallel Lines",
+                    "fileName": "9geo_2.pdf"
+                },
+                {
+                    "title": "3. Triangles",
+                    "fileName": "9geo_3.pdf"
+                },
+                {
+                    "title": "4. Constructions of Triangles",
+                    "fileName": "9geo_4.pdf"
+                },
+                {
+                    "title": "5. Quadrilaterals",
+                    "fileName": "9geo_5.pdf"
+                },
+                {
+                    "title": "6. Circle",
+                    "fileName": "9geo_6.pdf"
+                },
+                {
+                    "title": "7. Co-ordinate Geometry",
+                    "fileName": "9geo_7.pdf"
+                },
+                {
+                    "title": "8. Trigonometry",
+                    "fileName": "9geo_8.pdf"
+                },
+                {
+                    "title": "9. Surface Area and Volume",
+                    "fileName": "9geo_9.pdf"
+                }
             ]
         },
         {
             "name": "6. Science",
             "chapters": [
-                { "title": "1. Laws of Motion", "fileName": "9sci_1.pdf" },
-                { "title": "2. Work and Energy", "fileName": "9sci_2.pdf" },
-                { "title": "3. Current Electricity", "fileName": "9sci_3.pdf" },
-                { "title": "4. Measurement of Matter", "fileName": "9sci_4.pdf" },
-                { "title": "5. Acids, Bases and Salts", "fileName": "9sci_5.pdf" },
-                { "title": "6. Classification of Plants", "fileName": "9sci_6.pdf" },
-                { "title": "7. Energy Flow in an Ecosystem", "fileName": "9sci_7.pdf" },
-                { "title": "8. Useful and Harmful Microbes", "fileName": "9sci_8.pdf" },
-                { "title": "9. Environmental Management", "fileName": "9sci_9.pdf" },
-                { "title": "10. Information Communication Technology (ICT)", "fileName": "9sci_10.pdf" },
-                { "title": "11. Reflection of Light", "fileName": "9sci_11.pdf" },
-                { "title": "12. Study of Sound", "fileName": "9sci_12.pdf" },
-                { "title": "13. Carbon : An important element", "fileName": "9sci_13.pdf" },
-                { "title": "14. Substances in Common Use", "fileName": "9sci_14.pdf" },
-                { "title": "15. Life Processes in Living Organisms", "fileName": "9sci_15.pdf" },
-                { "title": "16. Heredity and Variation", "fileName": "9sci_16.pdf" },
-                { "title": "17. Introduction to Biotechnology", "fileName": "9sci_17.pdf" },
-                { "title": "18. Observing Space : Telescopes", "fileName": "9sci_18.pdf" }
+                {
+                    "title": "1. Laws of Motion",
+                    "fileName": "9sci_1.pdf"
+                },
+                {
+                    "title": "2. Work and Energy",
+                    "fileName": "9sci_2.pdf"
+                },
+                {
+                    "title": "3. Current Electricity",
+                    "fileName": "9sci_3.pdf"
+                },
+                {
+                    "title": "4. Measurement of Matter",
+                    "fileName": "9sci_4.pdf"
+                },
+                {
+                    "title": "5. Acids, Bases and Salts",
+                    "fileName": "9sci_5.pdf"
+                },
+                {
+                    "title": "6. Classification of Plants",
+                    "fileName": "9sci_6.pdf"
+                },
+                {
+                    "title": "7. Energy Flow in an Ecosystem",
+                    "fileName": "9sci_7.pdf"
+                },
+                {
+                    "title": "8. Useful and Harmful Microbes",
+                    "fileName": "9sci_8.pdf"
+                },
+                {
+                    "title": "9. Environmental Management",
+                    "fileName": "9sci_9.pdf"
+                },
+                {
+                    "title": "10. Information Communication Technology (ICT)",
+                    "fileName": "9sci_10.pdf"
+                },
+                {
+                    "title": "11. Reflection of Light",
+                    "fileName": "9sci_11.pdf"
+                },
+                {
+                    "title": "12. Study of Sound",
+                    "fileName": "9sci_12.pdf"
+                },
+                {
+                    "title": "13. Carbon : An important element",
+                    "fileName": "9sci_13.pdf"
+                },
+                {
+                    "title": "14. Substances in Common Use",
+                    "fileName": "9sci_14.pdf"
+                },
+                {
+                    "title": "15. Life Processes in Living Organisms",
+                    "fileName": "9sci_15.pdf"
+                },
+                {
+                    "title": "16. Heredity and Variation",
+                    "fileName": "9sci_16.pdf"
+                },
+                {
+                    "title": "17. Introduction to Biotechnology",
+                    "fileName": "9sci_17.pdf"
+                },
+                {
+                    "title": "18. Observing Space : Telescopes",
+                    "fileName": "9sci_18.pdf"
+                }
             ]
         },
         {
             "name": "7. Itihas",
             "chapters": [
-                { "title": "१. इतिहासाची साधने", "fileName": "9h_1.pdf" },
-                { "title": "२. भारत : १९६० नंतरच्या घडामोडी", "fileName": "9h_2.pdf" },
-                { "title": "३. भारतापुढील अंतर्गत आव्हाने", "fileName": "9h_3.pdf" },
-                { "title": "४. आर्थिक विकास", "fileName": "9h_4.pdf" },
-                { "title": "५. शैक्षणिक वाटचाल", "fileName": "9h_5.pdf" },
-                { "title": "६. महिला व अन्य दुर्बल घटकांचे सक्षमीकरण", "fileName": "9h_6.pdf" },
-                { "title": "७. विज्ञान व तंत्रज्ञान", "fileName": "9h_7.pdf" },
-                { "title": "८. उद्योग व व्यापार", "fileName": "9h_8.pdf" },
-                { "title": "९. बदलते जीवन : भाग १", "fileName": "9h_9.pdf" },
-                { "title": "१०. बदलते जीवन : भाग २", "fileName": "9h_10.pdf" }
+                {
+                    "title": "१. इतिहासाची साधने",
+                    "fileName": "9h_1.pdf"
+                },
+                {
+                    "title": "२. भारत : १९६० नंतरच्या घडामोडी",
+                    "fileName": "9h_2.pdf"
+                },
+                {
+                    "title": "३. भारतापुढील अंतर्गत आव्हाने",
+                    "fileName": "9h_3.pdf"
+                },
+                {
+                    "title": "४. आर्थिक विकास",
+                    "fileName": "9h_4.pdf"
+                },
+                {
+                    "title": "५. शैक्षणिक वाटचाल",
+                    "fileName": "9h_5.pdf"
+                },
+                {
+                    "title": "६. महिला व अन्य दुर्बल घटकांचे सक्षमीकरण",
+                    "fileName": "9h_6.pdf"
+                },
+                {
+                    "title": "७. विज्ञान व तंत्रज्ञान",
+                    "fileName": "9h_7.pdf"
+                },
+                {
+                    "title": "८. उद्योग व व्यापार",
+                    "fileName": "9h_8.pdf"
+                },
+                {
+                    "title": "९. बदलते जीवन : भाग १",
+                    "fileName": "9h_9.pdf"
+                },
+                {
+                    "title": "१०. बदलते जीवन : भाग २",
+                    "fileName": "9h_10.pdf"
+                }
             ]
         },
         {
             "name": "8. Bhugol",
             "chapters": [
-                { "title": "१. वितरणाचे नकाशे", "fileName": "9bhu_1.pdf" },
-                { "title": "२. अंतर्गत हालचाली", "fileName": "9bhu_2.pdf" },
-                { "title": "३. बाह्यप्रक्रिया भाग-१", "fileName": "9bhu_3.pdf" },
-                { "title": "४. बाह्यप्रक्रिया भाग-२", "fileName": "9bhu_4.pdf" },
-                { "title": "५. वृष्टी", "fileName": "9bhu_5.pdf" },
-                { "title": "६. सागरजलाचे गुणधर्म", "fileName": "9bhu_6.pdf" },
-                { "title": "७. आंतरराष्ट्रीय वाररेषा", "fileName": "9bhu_7.pdf" },
-                { "title": "८. अर्थशास्त्राशी परिचय", "fileName": "9bhu_8.pdf" },
-                { "title": "९. व्यापार", "fileName": "9bhu_9.pdf" },
-                { "title": "१०. नागरीकरण", "fileName": "9bhu_10.pdf" },
-                { "title": "११. वाहतूक व संदेशवहन", "fileName": "9bhu_11.pdf" },
-                { "title": "१२. पर्यटन", "fileName": "9bhu_12.pdf" }
+                {
+                    "title": "१. वितरणाचे नकाशे",
+                    "fileName": "9bhu_1.pdf"
+                },
+                {
+                    "title": "२. अंतर्गत हालचाली",
+                    "fileName": "9bhu_2.pdf"
+                },
+                {
+                    "title": "३. बाह्यप्रक्रिया भाग-१",
+                    "fileName": "9bhu_3.pdf"
+                },
+                {
+                    "title": "४. बाह्यप्रक्रिया भाग-२",
+                    "fileName": "9bhu_4.pdf"
+                },
+                {
+                    "title": "५. वृष्टी",
+                    "fileName": "9bhu_5.pdf"
+                },
+                {
+                    "title": "६. सागरजलाचे गुणधर्म",
+                    "fileName": "9bhu_6.pdf"
+                },
+                {
+                    "title": "७. आंतरराष्ट्रीय वाररेषा",
+                    "fileName": "9bhu_7.pdf"
+                },
+                {
+                    "title": "८. अर्थशास्त्राशी परिचय",
+                    "fileName": "9bhu_8.pdf"
+                },
+                {
+                    "title": "९. व्यापार",
+                    "fileName": "9bhu_9.pdf"
+                },
+                {
+                    "title": "१०. नागरीकरण",
+                    "fileName": "9bhu_10.pdf"
+                },
+                {
+                    "title": "११. वाहतूक व संदेशवहन",
+                    "fileName": "9bhu_11.pdf"
+                },
+                {
+                    "title": "१२. पर्यटन",
+                    "fileName": "9bhu_12.pdf"
+                }
             ]
         },
         {
             "name": "9. Rajyashastra",
             "chapters": [
-                { "title": "१. महायुद्धोत्तर राजकीय घडामोडी", "fileName": "9raj_1.pdf" },
-                { "title": "२. भारताच्या परराष्ट्र धोरणाची वाटचाल", "fileName": "9raj_2.pdf" },
-                { "title": "३. भारताची सुरक्षा व्यवस्था", "fileName": "9raj_3.pdf" },
-                { "title": "४. संयुक्त राष्ट्रे", "fileName": "9raj_4.pdf" },
-                { "title": "५. भारत व अन्य देश", "fileName": "9raj_5.pdf" },
-                { "title": "६. आंतरराष्ट्रीय समस्या", "fileName": "9raj_6.pdf" }
+                {
+                    "title": "१. महायुद्धोत्तर राजकीय घडामोडी",
+                    "fileName": "9raj_1.pdf"
+                },
+                {
+                    "title": "२. भारताच्या परराष्ट्र धोरणाची वाटचाल",
+                    "fileName": "9raj_2.pdf"
+                },
+                {
+                    "title": "३. भारताची सुरक्षा व्यवस्था",
+                    "fileName": "9raj_3.pdf"
+                },
+                {
+                    "title": "४. संयुक्त राष्ट्रे",
+                    "fileName": "9raj_4.pdf"
+                },
+                {
+                    "title": "५. भारत व अन्य देश",
+                    "fileName": "9raj_5.pdf"
+                },
+                {
+                    "title": "६. आंतरराष्ट्रीय समस्या",
+                    "fileName": "9raj_6.pdf"
+                }
             ]
         }
     ],
@@ -354,164 +1110,533 @@
         {
             "name": "1. Marathi",
             "chapters": [
-                { "title": "१. भारत देश महान (गीत)", "fileName": "8mar_1.pdf" },
-                { "title": "२. माझ्या देशावर माझे प्रेम आहे", "fileName": "8mar_2.pdf" },
-                { "title": "३. लाखाच्या...कोटीच्या गप्पा", "fileName": "8mar_3.pdf" },
-                { "title": "४. नव्या युगाचे गाणे (कविता)", "fileName": "8mar_4.pdf" },
-                { "title": "५. सुरांची जादूगिरी", "fileName": "8mar_5.pdf" },
-                { "title": "६. असा रंगारी श्रावण (कविता)", "fileName": "8mar_6.pdf" },
-                { "title": "७. अण्णा भाऊंची भेट", "fileName": "8mar_7.pdf" },
-                { "title": "८. धाडसी कॅप्टन : राधिका मेनन", "fileName": "8mar_8.pdf" },
-                { "title": "९. विद्याप्रशंसा (कविता)", "fileName": "8mar_9.pdf" },
-                { "title": "१०. लिओनार्दो दा विंची (स्थूलवाचन)", "fileName": "8mar_sthul_1.pdf" },
-                { "title": "११. स्वामी विवेकानंदांची भारतयात्रा", "fileName": "8mar_11.pdf" },
-                { "title": "१२. गोधडी (कविता)", "fileName": "8mar_12.pdf" },
-                { "title": "१३. पाड्यावरचा चहा", "fileName": "8mar_13.pdf" },
-                { "title": "१४. फुलपाखरे", "fileName": "8mar_14.pdf" },
-                { "title": "१५. आळाशी (कविता)", "fileName": "8mar_15.pdf" },
-                { "title": "१६. चोच आणि चारा", "fileName": "8mar_16.pdf" },
-                { "title": "१७. अन्नजाल (कविता)", "fileName": "8mar_17.pdf" },
-                { "title": "१८. जलदिंडी", "fileName": "8mar_18.pdf" },
-                { "title": "१९. गे मायभू (कविता)", "fileName": "8mar_19.pdf" },
-                { "title": "२०. शब्दकोश (स्थूलवाचन)", "fileName": "8mar_sthul_2.pdf" },
-                { "title": "२१. संतवाणी (अ) संत तुकाराम (आ) संत सावता माळी", "fileName": "8mar_21.pdf" }
+                {
+                    "title": "१. भारत देश महान (गीत)",
+                    "fileName": "8mar_1.pdf"
+                },
+                {
+                    "title": "२. माझ्या देशावर माझे प्रेम आहे",
+                    "fileName": "8mar_2.pdf"
+                },
+                {
+                    "title": "३. लाखाच्या...कोटीच्या गप्पा",
+                    "fileName": "8mar_3.pdf"
+                },
+                {
+                    "title": "४. नव्या युगाचे गाणे (कविता)",
+                    "fileName": "8mar_4.pdf"
+                },
+                {
+                    "title": "५. सुरांची जादूगिरी",
+                    "fileName": "8mar_5.pdf"
+                },
+                {
+                    "title": "६. असा रंगारी श्रावण (कविता)",
+                    "fileName": "8mar_6.pdf"
+                },
+                {
+                    "title": "७. अण्णा भाऊंची भेट",
+                    "fileName": "8mar_7.pdf"
+                },
+                {
+                    "title": "८. धाडसी कॅप्टन : राधिका मेनन",
+                    "fileName": "8mar_8.pdf"
+                },
+                {
+                    "title": "९. विद्याप्रशंसा (कविता)",
+                    "fileName": "8mar_9.pdf"
+                },
+                {
+                    "title": "१०. लिओनार्दो दा विंची (स्थूलवाचन)",
+                    "fileName": "8mar_sthul_1.pdf"
+                },
+                {
+                    "title": "११. स्वामी विवेकानंदांची भारतयात्रा",
+                    "fileName": "8mar_11.pdf"
+                },
+                {
+                    "title": "१२. गोधडी (कविता)",
+                    "fileName": "8mar_12.pdf"
+                },
+                {
+                    "title": "१३. पाड्यावरचा चहा",
+                    "fileName": "8mar_13.pdf"
+                },
+                {
+                    "title": "१४. फुलपाखरे",
+                    "fileName": "8mar_14.pdf"
+                },
+                {
+                    "title": "१५. आळाशी (कविता)",
+                    "fileName": "8mar_15.pdf"
+                },
+                {
+                    "title": "१६. चोच आणि चारा",
+                    "fileName": "8mar_16.pdf"
+                },
+                {
+                    "title": "१७. अन्नजाल (कविता)",
+                    "fileName": "8mar_17.pdf"
+                },
+                {
+                    "title": "१८. जलदिंडी",
+                    "fileName": "8mar_18.pdf"
+                },
+                {
+                    "title": "१९. गे मायभू (कविता)",
+                    "fileName": "8mar_19.pdf"
+                },
+                {
+                    "title": "२०. शब्दकोश (स्थूलवाचन)",
+                    "fileName": "8mar_sthul_2.pdf"
+                },
+                {
+                    "title": "२१. संतवाणी (अ) संत तुकाराम (आ) संत सावता माळी",
+                    "fileName": "8mar_21.pdf"
+                }
             ]
         },
         {
             "name": "2. English",
             "chapters": [
-                { "title": "1.1 Be the Best", "fileName": "8eng_1.1.pdf" },
-                { "title": "1.2 Androcles, and the Lion", "fileName": "8eng_1.2.pdf" },
-                { "title": "1.3 Trees are the Kindest Things I Know", "fileName": "8eng_1.3.pdf" },
-                { "title": "1.4 Miss Slippery", "fileName": "8eng_1.4.pdf" },
-                { "title": "2.1 Try Again", "fileName": "8eng_2.1.pdf" },
-                { "title": "2.2 The House builder", "fileName": "8eng_2.2.pdf" },
-                { "title": "2.3 The Little River", "fileName": "8eng_2.3.pdf" },
-                { "title": "2.4 Excuses ! (A Skit)", "fileName": "8eng_2.4.pdf" },
-                { "title": "2.5 A Heroine of the Sea", "fileName": "8eng_2.5.pdf" },
-                { "title": "3.1 \"Why?\"", "fileName": "8eng_3.1.pdf" },
-                { "title": "3.2 The Song of Songs", "fileName": "8eng_3.2.pdf" },
-                { "title": "3.3 Truth", "fileName": "8eng_3.3.pdf" },
-                { "title": "3.4 The Two Gentlemen of Verona", "fileName": "8eng_3.4.pdf" },
-                { "title": "4.1 The Vet", "fileName": "8eng_4.1.pdf" },
-                { "title": "4.2 P. V. Sindhu - An Icon of Success", "fileName": "8eng_4.2.pdf" },
-                { "title": "4.3 Golden Chain", "fileName": "8eng_4.3.pdf" },
-                { "title": "4.4 The Unsinkable Ship", "fileName": "8eng_4.4.pdf" },
-                { "title": "4.5 Festivals of North East India", "fileName": "8eng_4.5.pdf" }
+                {
+                    "title": "1.1 Be the Best",
+                    "fileName": "8eng_1.1.pdf"
+                },
+                {
+                    "title": "1.2 Androcles, and the Lion",
+                    "fileName": "8eng_1.2.pdf"
+                },
+                {
+                    "title": "1.3 Trees are the Kindest Things I Know",
+                    "fileName": "8eng_1.3.pdf"
+                },
+                {
+                    "title": "1.4 Miss Slippery",
+                    "fileName": "8eng_1.4.pdf"
+                },
+                {
+                    "title": "2.1 Try Again",
+                    "fileName": "8eng_2.1.pdf"
+                },
+                {
+                    "title": "2.2 The House builder",
+                    "fileName": "8eng_2.2.pdf"
+                },
+                {
+                    "title": "2.3 The Little River",
+                    "fileName": "8eng_2.3.pdf"
+                },
+                {
+                    "title": "2.4 Excuses ! (A Skit)",
+                    "fileName": "8eng_2.4.pdf"
+                },
+                {
+                    "title": "2.5 A Heroine of the Sea",
+                    "fileName": "8eng_2.5.pdf"
+                },
+                {
+                    "title": "3.1 \"Why?\"",
+                    "fileName": "8eng_3.1.pdf"
+                },
+                {
+                    "title": "3.2 The Song of Songs",
+                    "fileName": "8eng_3.2.pdf"
+                },
+                {
+                    "title": "3.3 Truth",
+                    "fileName": "8eng_3.3.pdf"
+                },
+                {
+                    "title": "3.4 The Two Gentlemen of Verona",
+                    "fileName": "8eng_3.4.pdf"
+                },
+                {
+                    "title": "4.1 The Vet",
+                    "fileName": "8eng_4.1.pdf"
+                },
+                {
+                    "title": "4.2 P. V. Sindhu - An Icon of Success",
+                    "fileName": "8eng_4.2.pdf"
+                },
+                {
+                    "title": "4.3 Golden Chain",
+                    "fileName": "8eng_4.3.pdf"
+                },
+                {
+                    "title": "4.4 The Unsinkable Ship",
+                    "fileName": "8eng_4.4.pdf"
+                },
+                {
+                    "title": "4.5 Festivals of North East India",
+                    "fileName": "8eng_4.5.pdf"
+                }
             ]
         },
         {
             "name": "3. Hindi",
             "chapters": [
-                { "title": "१. हे मातृभूमि !", "fileName": "8hin_1.1.pdf" },
-                { "title": "२. वारिस कौन ?", "fileName": "8hin_1.2.pdf" },
-                { "title": "३. नाखून क्यों बढ़ते हैं ?", "fileName": "8hin_1.3.pdf" },
-                { "title": "४. गाँव-शहर", "fileName": "8hin_1.4.pdf" },
-                { "title": "५. मधुबन", "fileName": "8hin_1.5.pdf" },
-                { "title": "६. जरा प्यार से बोलना सीख लीजे", "fileName": "8hin_1.6.pdf" },
-                { "title": "७. मेरे रजा साहब", "fileName": "8hin_1.7.pdf" },
-                { "title": "८. पूर्ण विश्राम", "fileName": "8hin_1.8.pdf" },
-                { "title": "९. अनमोल वाणी", "fileName": "8hin_1.9.pdf" },
-                { "title": "१. धरती का आँगन महके", "fileName": "8hin_2.1.pdf" },
-                { "title": "२. दो लघुकथाएँ", "fileName": "8hin_2.2.pdf" },
-                { "title": "३. लकड़हारा और वन", "fileName": "8hin_2.3.pdf" },
-                { "title": "४. सौहार्द-सौमनस्य", "fileName": "8hin_2.4.pdf" },
-                { "title": "५. खेती से आई तब्दीलियाँ", "fileName": "8hin_2.5.pdf" },
-                { "title": "६. अंधायुग", "fileName": "8hin_2.6.pdf" },
-                { "title": "७. स्वराज्य मेरा जन्मसिद्ध अधिकार है", "fileName": "8hin_2.7.pdf" },
-                { "title": "८. मेरा विद्रोह", "fileName": "8hin_2.8.pdf" },
-                { "title": "९. नहीं कुछ इससे बढ़कर", "fileName": "8hin_2.9.pdf" }
+                {
+                    "title": "१. हे मातृभूमि !",
+                    "fileName": "8hin_1.1.pdf"
+                },
+                {
+                    "title": "२. वारिस कौन ?",
+                    "fileName": "8hin_1.2.pdf"
+                },
+                {
+                    "title": "३. नाखून क्यों बढ़ते हैं ?",
+                    "fileName": "8hin_1.3.pdf"
+                },
+                {
+                    "title": "४. गाँव-शहर",
+                    "fileName": "8hin_1.4.pdf"
+                },
+                {
+                    "title": "५. मधुबन",
+                    "fileName": "8hin_1.5.pdf"
+                },
+                {
+                    "title": "६. जरा प्यार से बोलना सीख लीजे",
+                    "fileName": "8hin_1.6.pdf"
+                },
+                {
+                    "title": "७. मेरे रजा साहब",
+                    "fileName": "8hin_1.7.pdf"
+                },
+                {
+                    "title": "८. पूर्ण विश्राम",
+                    "fileName": "8hin_1.8.pdf"
+                },
+                {
+                    "title": "९. अनमोल वाणी",
+                    "fileName": "8hin_1.9.pdf"
+                },
+                {
+                    "title": "१. धरती का आँगन महके",
+                    "fileName": "8hin_2.1.pdf"
+                },
+                {
+                    "title": "२. दो लघुकथाएँ",
+                    "fileName": "8hin_2.2.pdf"
+                },
+                {
+                    "title": "३. लकड़हारा और वन",
+                    "fileName": "8hin_2.3.pdf"
+                },
+                {
+                    "title": "४. सौहार्द-सौमनस्य",
+                    "fileName": "8hin_2.4.pdf"
+                },
+                {
+                    "title": "५. खेती से आई तब्दीलियाँ",
+                    "fileName": "8hin_2.5.pdf"
+                },
+                {
+                    "title": "६. अंधायुग",
+                    "fileName": "8hin_2.6.pdf"
+                },
+                {
+                    "title": "७. स्वराज्य मेरा जन्मसिद्ध अधिकार है",
+                    "fileName": "8hin_2.7.pdf"
+                },
+                {
+                    "title": "८. मेरा विद्रोह",
+                    "fileName": "8hin_2.8.pdf"
+                },
+                {
+                    "title": "९. नहीं कुछ इससे बढ़कर",
+                    "fileName": "8hin_2.9.pdf"
+                }
             ]
         },
         {
             "name": "4. Math",
             "chapters": [
-                { "title": "1. Rational and Irrational numbers", "fileName": "8math_1.pdf" },
-                { "title": "2. Parallel lines and transversals", "fileName": "8math_2.pdf" },
-                { "title": "3. Indices and Cube root", "fileName": "8math_3.pdf" },
-                { "title": "4. Altitudes and Medians of a triangle", "fileName": "8math_4.pdf" },
-                { "title": "5. Expansion formulae", "fileName": "8math_5.pdf" },
-                { "title": "6. Factorisation of Algebraic expressions", "fileName": "8math_6.pdf" },
-                { "title": "7. Variation", "fileName": "8math_7.pdf" },
-                { "title": "8. Quadrilateral : Constructions and Types", "fileName": "8math_8.pdf" },
-                { "title": "9. Discount and Commission", "fileName": "8math_9.pdf" },
-                { "title": "10. Division of Polynomials", "fileName": "8math_10.pdf" },
-                { "title": "11. Statistics", "fileName": "8math_11.pdf" },
-                { "title": "12. Equations in one variable", "fileName": "8math_12.pdf" },
-                { "title": "13. Congruence of triangles", "fileName": "8math_13.pdf" },
-                { "title": "14. Compound interest", "fileName": "8math_14.pdf" },
-                { "title": "15. Area", "fileName": "8math_15.pdf" },
-                { "title": "16. Surface area and Volume", "fileName": "8math_16.pdf" },
-                { "title": "17. Circle : Chord and Arc", "fileName": "8math_17.pdf" }
+                {
+                    "title": "1. Rational and Irrational numbers",
+                    "fileName": "8math_1.pdf"
+                },
+                {
+                    "title": "2. Parallel lines and transversals",
+                    "fileName": "8math_2.pdf"
+                },
+                {
+                    "title": "3. Indices and Cube root",
+                    "fileName": "8math_3.pdf"
+                },
+                {
+                    "title": "4. Altitudes and Medians of a triangle",
+                    "fileName": "8math_4.pdf"
+                },
+                {
+                    "title": "5. Expansion formulae",
+                    "fileName": "8math_5.pdf"
+                },
+                {
+                    "title": "6. Factorisation of Algebraic expressions",
+                    "fileName": "8math_6.pdf"
+                },
+                {
+                    "title": "7. Variation",
+                    "fileName": "8math_7.pdf"
+                },
+                {
+                    "title": "8. Quadrilateral : Constructions and Types",
+                    "fileName": "8math_8.pdf"
+                },
+                {
+                    "title": "9. Discount and Commission",
+                    "fileName": "8math_9.pdf"
+                },
+                {
+                    "title": "10. Division of Polynomials",
+                    "fileName": "8math_10.pdf"
+                },
+                {
+                    "title": "11. Statistics",
+                    "fileName": "8math_11.pdf"
+                },
+                {
+                    "title": "12. Equations in one variable",
+                    "fileName": "8math_12.pdf"
+                },
+                {
+                    "title": "13. Congruence of triangles",
+                    "fileName": "8math_13.pdf"
+                },
+                {
+                    "title": "14. Compound interest",
+                    "fileName": "8math_14.pdf"
+                },
+                {
+                    "title": "15. Area",
+                    "fileName": "8math_15.pdf"
+                },
+                {
+                    "title": "16. Surface area and Volume",
+                    "fileName": "8math_16.pdf"
+                },
+                {
+                    "title": "17. Circle : Chord and Arc",
+                    "fileName": "8math_17.pdf"
+                }
             ]
         },
         {
             "name": "5. Science",
             "chapters": [
-                { "title": "1. Living World and Classification of Microbes", "fileName": "8sci_1.pdf" },
-                { "title": "2. Health and Diseases", "fileName": "8sci_2.pdf" },
-                { "title": "3. Force and Pressure", "fileName": "8sci_3.pdf" },
-                { "title": "4. Current Electricity and Magnetism", "fileName": "8sci_4.pdf" },
-                { "title": "5. Inside the Atom", "fileName": "8sci_5.pdf" },
-                { "title": "6. Composition of Matter", "fileName": "8sci_6.pdf" },
-                { "title": "7. Metals and Nonmetals", "fileName": "8sci_7.pdf" },
-                { "title": "8. Pollution", "fileName": "8sci_8.pdf" },
-                { "title": "9. Disaster Management", "fileName": "8sci_9.pdf" },
-                { "title": "10. Cell and Cell Organelles", "fileName": "8sci_10.pdf" },
-                { "title": "11. Human Body and Organ System", "fileName": "8sci_11.pdf" },
-                { "title": "12. Introduction to Acid and Base", "fileName": "8sci_12.pdf" },
-                { "title": "13. Chemical Change and Chemical Bond", "fileName": "8sci_13.pdf" },
-                { "title": "14. Measurement and Effects of Heat", "fileName": "8sci_14.pdf" },
-                { "title": "15. Sound", "fileName": "8sci_15.pdf" },
-                { "title": "16. Reflection of Light", "fileName": "8sci_16.pdf" },
-                { "title": "17. Man made Materials", "fileName": "8sci_17.pdf" },
-                { "title": "18. Ecosystems", "fileName": "8sci_18.pdf" },
-                { "title": "19. Life Cycle of Stars", "fileName": "8sci_19.pdf" }
+                {
+                    "title": "1. Living World and Classification of Microbes",
+                    "fileName": "8sci_1.pdf"
+                },
+                {
+                    "title": "2. Health and Diseases",
+                    "fileName": "8sci_2.pdf"
+                },
+                {
+                    "title": "3. Force and Pressure",
+                    "fileName": "8sci_3.pdf"
+                },
+                {
+                    "title": "4. Current Electricity and Magnetism",
+                    "fileName": "8sci_4.pdf"
+                },
+                {
+                    "title": "5. Inside the Atom",
+                    "fileName": "8sci_5.pdf"
+                },
+                {
+                    "title": "6. Composition of Matter",
+                    "fileName": "8sci_6.pdf"
+                },
+                {
+                    "title": "7. Metals and Nonmetals",
+                    "fileName": "8sci_7.pdf"
+                },
+                {
+                    "title": "8. Pollution",
+                    "fileName": "8sci_8.pdf"
+                },
+                {
+                    "title": "9. Disaster Management",
+                    "fileName": "8sci_9.pdf"
+                },
+                {
+                    "title": "10. Cell and Cell Organelles",
+                    "fileName": "8sci_10.pdf"
+                },
+                {
+                    "title": "11. Human Body and Organ System",
+                    "fileName": "8sci_11.pdf"
+                },
+                {
+                    "title": "12. Introduction to Acid and Base",
+                    "fileName": "8sci_12.pdf"
+                },
+                {
+                    "title": "13. Chemical Change and Chemical Bond",
+                    "fileName": "8sci_13.pdf"
+                },
+                {
+                    "title": "14. Measurement and Effects of Heat",
+                    "fileName": "8sci_14.pdf"
+                },
+                {
+                    "title": "15. Sound",
+                    "fileName": "8sci_15.pdf"
+                },
+                {
+                    "title": "16. Reflection of Light",
+                    "fileName": "8sci_16.pdf"
+                },
+                {
+                    "title": "17. Man made Materials",
+                    "fileName": "8sci_17.pdf"
+                },
+                {
+                    "title": "18. Ecosystems",
+                    "fileName": "8sci_18.pdf"
+                },
+                {
+                    "title": "19. Life Cycle of Stars",
+                    "fileName": "8sci_19.pdf"
+                }
             ]
         },
         {
             "name": "6. Itihas",
             "chapters": [
-                { "title": "१. इतिहासाची साधने", "fileName": "8h_1.pdf" },
-                { "title": "२. युरोप आणि भारत", "fileName": "8h_2.pdf" },
-                { "title": "३. ब्रिटिश सत्तेचे परिणाम", "fileName": "8h_3.pdf" },
-                { "title": "४. १८५७ चा स्वातंत्र्यलढा", "fileName": "8h_4.pdf" },
-                { "title": "५. सामाजिक व धार्मिक प्रबोधन", "fileName": "8h_5.pdf" },
-                { "title": "६. स्वातंत्र्य चळवळीच्या युगास प्रारंभ", "fileName": "8h_6.pdf" },
-                { "title": "७. असहकार चळवळ", "fileName": "8h_7.pdf" },
-                { "title": "८. सविनय कायदेभंग चळवळ", "fileName": "8h_8.pdf" },
-                { "title": "९. स्वातंत्र्यलढ्याचे अंतिम पर्व", "fileName": "8h_9.pdf" },
-                { "title": "१०. सशस्त्र क्रांतिकारी चळवळ", "fileName": "8h_10.pdf" },
-                { "title": "११. समतेचा लढा", "fileName": "8h_11.pdf" },
-                { "title": "१२. स्वातंत्र्यप्राप्ती", "fileName": "8h_12.pdf" },
-                { "title": "१३. स्वातंत्र्यलढ्याची परिपूर्ती", "fileName": "8h_13.pdf" },
-                { "title": "१४. महाराष्ट्र राज्याची निर्मिती", "fileName": "8h_14.pdf" }
+                {
+                    "title": "१. इतिहासाची साधने",
+                    "fileName": "8h_1.pdf"
+                },
+                {
+                    "title": "२. युरोप आणि भारत",
+                    "fileName": "8h_2.pdf"
+                },
+                {
+                    "title": "३. ब्रिटिश सत्तेचे परिणाम",
+                    "fileName": "8h_3.pdf"
+                },
+                {
+                    "title": "४. १८५७ चा स्वातंत्र्यलढा",
+                    "fileName": "8h_4.pdf"
+                },
+                {
+                    "title": "५. सामाजिक व धार्मिक प्रबोधन",
+                    "fileName": "8h_5.pdf"
+                },
+                {
+                    "title": "६. स्वातंत्र्य चळवळीच्या युगास प्रारंभ",
+                    "fileName": "8h_6.pdf"
+                },
+                {
+                    "title": "७. असहकार चळवळ",
+                    "fileName": "8h_7.pdf"
+                },
+                {
+                    "title": "८. सविनय कायदेभंग चळवळ",
+                    "fileName": "8h_8.pdf"
+                },
+                {
+                    "title": "९. स्वातंत्र्यलढ्याचे अंतिम पर्व",
+                    "fileName": "8h_9.pdf"
+                },
+                {
+                    "title": "१०. सशस्त्र क्रांतिकारी चळवळ",
+                    "fileName": "8h_10.pdf"
+                },
+                {
+                    "title": "११. समतेचा लढा",
+                    "fileName": "8h_11.pdf"
+                },
+                {
+                    "title": "१२. स्वातंत्र्यप्राप्ती",
+                    "fileName": "8h_12.pdf"
+                },
+                {
+                    "title": "१३. स्वातंत्र्यलढ्याची परिपूर्ती",
+                    "fileName": "8h_13.pdf"
+                },
+                {
+                    "title": "१४. महाराष्ट्र राज्याची निर्मिती",
+                    "fileName": "8h_14.pdf"
+                }
             ]
         },
         {
             "name": "7. Bhugol",
             "chapters": [
-                { "title": "१. स्थानिक वेळ व प्रमाण वेळ", "fileName": "8bhu_1.pdf" },
-                { "title": "२. पृथ्वीचे अंतरंग", "fileName": "8bhu_2.pdf" },
-                { "title": "३. आर्द्रता व ढग", "fileName": "8bhu_3.pdf" },
-                { "title": "४. सागरतळरचना", "fileName": "8bhu_4.pdf" },
-                { "title": "५. सागरी प्रवाह", "fileName": "8bhu_5.pdf" },
-                { "title": "६. भूमी उपयोजन", "fileName": "8bhu_6.pdf" },
-                { "title": "७. लोकसंख्या", "fileName": "8bhu_7.pdf" },
-                { "title": "८. उद्योग", "fileName": "8bhu_8.pdf" },
-                { "title": "९. नकाशाप्रमाण", "fileName": "8bhu_9.pdf" },
-                { "title": "१०. क्षेत्रभेट", "fileName": "8bhu_10.pdf" }
+                {
+                    "title": "१. स्थानिक वेळ व प्रमाण वेळ",
+                    "fileName": "8bhu_1.pdf"
+                },
+                {
+                    "title": "२. पृथ्वीचे अंतरंग",
+                    "fileName": "8bhu_2.pdf"
+                },
+                {
+                    "title": "३. आर्द्रता व ढग",
+                    "fileName": "8bhu_3.pdf"
+                },
+                {
+                    "title": "४. सागरतळरचना",
+                    "fileName": "8bhu_4.pdf"
+                },
+                {
+                    "title": "५. सागरी प्रवाह",
+                    "fileName": "8bhu_5.pdf"
+                },
+                {
+                    "title": "६. भूमी उपयोजन",
+                    "fileName": "8bhu_6.pdf"
+                },
+                {
+                    "title": "७. लोकसंख्या",
+                    "fileName": "8bhu_7.pdf"
+                },
+                {
+                    "title": "८. उद्योग",
+                    "fileName": "8bhu_8.pdf"
+                },
+                {
+                    "title": "९. नकाशाप्रमाण",
+                    "fileName": "8bhu_9.pdf"
+                },
+                {
+                    "title": "१०. क्षेत्रभेट",
+                    "fileName": "8bhu_10.pdf"
+                }
             ]
         },
         {
             "name": "8. Nagarikshastra",
             "chapters": [
-                { "title": "१. संसदीय शासन पद्धतीची ओळख", "fileName": "8nag_1.pdf" },
-                { "title": "२. भारताची संसद", "fileName": "8nag_2.pdf" },
-                { "title": "३. केंद्रीय कार्यकारी मंडळ", "fileName": "8nag_3.pdf" },
-                { "title": "४. भारतातील न्यायव्यवस्था", "fileName": "8nag_4.pdf" },
-                { "title": "५. राज्यशासन", "fileName": "8nag_5.pdf" },
-                { "title": "६. नोकरशाही", "fileName": "8nag_6.pdf" }
+                {
+                    "title": "१. संसदीय शासन पद्धतीची ओळख",
+                    "fileName": "8nag_1.pdf"
+                },
+                {
+                    "title": "२. भारताची संसद",
+                    "fileName": "8nag_2.pdf"
+                },
+                {
+                    "title": "३. केंद्रीय कार्यकारी मंडळ",
+                    "fileName": "8nag_3.pdf"
+                },
+                {
+                    "title": "४. भारतातील न्यायव्यवस्था",
+                    "fileName": "8nag_4.pdf"
+                },
+                {
+                    "title": "५. राज्यशासन",
+                    "fileName": "8nag_5.pdf"
+                },
+                {
+                    "title": "६. नोकरशाही",
+                    "fileName": "8nag_6.pdf"
+                }
             ]
         }
     ],
@@ -825,5 +1950,17 @@
                 }
             ]
         }
-    ]
+    ],
+    "semi_gen": [
+        {
+            "name": "1. Math",
+            "chapters": [
+                {
+                    "title": "Basic of Math",
+                    "fileName": "gene_math.pdf"
+                }
+            ]
+        }
+    ],
+    "full_gen": []
 }
